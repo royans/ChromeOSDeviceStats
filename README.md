@@ -5,6 +5,7 @@ ChromeOS Device Reporting
 *  Prerequisites
     - Google Apps Domain with ChromeOS management enabled
     - Devices should be enrolled into the domain
+    - The user running it needs to be a super admin
     - Google API Console
 	- Create a project 
 	- Enable Admin SDK
